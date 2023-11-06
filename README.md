@@ -1,7 +1,7 @@
-# Laravel-9 Ecommerce Website
+# Laravel-9 E-commerce Website
 
-This is Laravel9 Ecommerce website Project with full functionallity.
-
+This project is an e-commerce website developed using Laravel 9, featuring comprehensive functionality. It has been undertaken for educational purposes, with guidance and instruction provided through an online course offered by the [Instructory](https://instructory.net/courses/laravel-10-master-class-for-beginner-to-intermediate---volume-01)
+ E-Learning Platform.
 ## Tech Stack
 
 **FrontEnd:** HTML, CSS, Bootstrap 4 Template.
@@ -10,24 +10,24 @@ This is Laravel9 Ecommerce website Project with full functionallity.
 
 ## Run Locally
 
-1. In your root folder, clone the project file using command
+1. In your root folder, clone the project file using the command
 
 ```bash
   git clone https://github.com/mokammeltanvir/ToHoney-Commerce-Project.git
 ```
-2. Open terminal (bash/cmd). Then go to project folder using command
+2. Open the terminal (bash/cmd). Then go to the project folder using the command
 
 ```bash
   cd ToHoney-Commerce-Project
 ```
 
-3. Then install required files and libraries using
+3. Then install the required files and libraries using
 
 ```sh
 composer install
 ```
 
-4. Then create a .env file and generate key for this project using command
+4. Then create a .env file and generate a key for this project using the command
 
 ```sh
 cp .env.example .env
@@ -47,9 +47,9 @@ or
 yarn install && yarn run dev
 ```
 
-6. Create a database in MYSQL and connect it with your project via updating .env file.
+6. Create a database in MYSQL and connect it with your project by updating .env file.
 
-7. After connecting the db with project, then run command
+7. After connecting the db with the project, then run the command
 
 ```sh
 php artisan migrate:fresh --seed
@@ -61,7 +61,7 @@ A. Admin -> Admin
 Email -> admin@gmail.com
 Pass -> 12345678
 
-Finally we are ready to run our project using this command 😄
+Finally, we are ready to run our project using this command 😄
 
 ```sh
 php artisan serve
@@ -69,7 +69,7 @@ php artisan serve
 
 ## Demo
 
-Insert gif or link to demo
+Insert gif or link to a demo
 
 ## Authors
 
