@@ -10,8 +10,11 @@ This is Laravel9 Ecommerce website Project with full functionallity.
 
 ## Run Locally
 
-1. In your root folder, clone the project file using git clone https://github.com/mokammeltanvir/ToHoney-Commerce-Project.git
+1. In your root folder, clone the project file using command
 
+```bash
+  git clone https://github.com/mokammeltanvir/ToHoney-Commerce-Project.git
+```
 2. Open terminal (bash/cmd). Then go to project folder using command
 
 ```bash
